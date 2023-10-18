@@ -1,6 +1,23 @@
 {
   "name": "functional-javascript",
   "version": "1.0.0",
-  "dependencies": {
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-dong/functional-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-dong/functional-javascript/issues"
+  },
+  "homepage": "https://github.com/dev-dong/functional-javascript#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
